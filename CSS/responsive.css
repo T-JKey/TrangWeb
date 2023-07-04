@@ -1,0 +1,30 @@
+
+@media (max-width: 740px) {
+    .header__search {
+        top: -20px;
+        z-index: 1;
+        padding: 0 8px;
+        position: fixed;
+        width: 100%;
+    }
+    .home-product {
+        padding: 30px 8px;
+    }
+}
+
+@media (min-width: 740px) and (max-width: 1023px) {
+    .header__search {
+        top: -20px;
+        z-index: 1;
+        padding: 0 8px;
+        position: fixed;
+        width: 100%;
+    }
+    .home-product {
+        padding: 30px 8px;
+    }
+}
+
+@media (min-width: 1024px) {
+    
+}
